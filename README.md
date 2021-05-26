@@ -17,4 +17,4 @@ optional arguments:
 Draw an Image in Paint in a NxN pixel canvas and see how it does as
 an initial world!
 
-![](gol.gif)
+![](https://github.com/gstechgeek/Conway_GoL/blob/main/gol.gif)
